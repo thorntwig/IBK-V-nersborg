@@ -1,0 +1,97 @@
+[
+  {
+    "firstName": "Janne",
+    "lastName": "Mattsson",
+    "position": "målvakt",
+    "jerseyNumber": 1,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Janne",
+    "lastName": "Mattsson",
+    "position": "målvakt",
+    "jerseyNumber": 1,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Kalle",
+    "lastName": "Sandin",
+    "position": "back",
+    "jerseyNumber": 6,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Kalle",
+    "lastName": "Sandin",
+    "position": "back",
+    "jerseyNumber": 6,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },{
+    "firstName": "Kalle",
+    "lastName": "Sandin",
+    "position": "back",
+    "jerseyNumber": 6,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Kalle",
+    "lastName": "Sandin",
+    "position": "back",
+    "jerseyNumber": 6,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Sven",
+    "lastName": "Wändahl",
+    "position": "center",
+    "jerseyNumber": 7,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Sven",
+    "lastName": "Wändahl",
+    "position": "center",
+    "jerseyNumber": 7,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },{
+    "firstName": "Sven",
+    "lastName": "Wändahl",
+    "position": "center",
+    "jerseyNumber": 7,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Klas",
+    "lastName": "Lindahl",
+    "position": "forward",
+    "jerseyNumber": 10,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Klas",
+    "lastName": "Lindahl",
+    "position": "forward",
+    "jerseyNumber": 10,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+  {
+    "firstName": "Klas",
+    "lastName": "Lindahl",
+    "position": "forward",
+    "jerseyNumber": 10,
+    "isHomeTeamPlayer":false,
+    "games": 10
+  },
+]
+
